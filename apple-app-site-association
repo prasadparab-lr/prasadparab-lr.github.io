@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+      {
+        "appID": "CHACMP5889.com.loylty.fime.test.bounceback",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
